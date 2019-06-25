@@ -16,3 +16,4 @@ new Mdate("dateShowBtn", { //"dateShowBtn"为你点击触发Mdate的id，必填�
 
 ```
 ![图片演示](https://github.com/wo2tanglili/Mdate/blob/master/demo.png)
+![手机演示地址](https://github.com/wo2tanglili/Mdate/blob/master/1561456157.png)
